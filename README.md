@@ -1,2 +1,4 @@
-# bullmae
+# [Mini Project in C] 
+
+## Calendar
  
